@@ -1,8 +1,2 @@
-title: "My Blog"
-baseurl: ""
-url: "https://mshattique.github.io"
-
-# Enable Jekyll
-theme: minima
-permalink: pretty
-future: true
+title: "Muhammad R. Shattique"
+description: "A personal blog on technology, science, and ideas."
