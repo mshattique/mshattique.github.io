@@ -1,4 +1,13 @@
 ---
 layout: home
-title: "Welcome to the Blog of Muhammad R. Shattique"
+title: "Muhammad R. Shattique"
 ---
+
+## Welcome! 
+
+Hi, I'm **Muhammad R. Shattique**. This is my personal blog where I write about:
+- Philosophy
+- Science
+- New Ideas
+
+Explore my latest posts below!
