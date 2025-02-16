@@ -1,0 +1,8 @@
+title: "My Blog"
+baseurl: ""
+url: "https://mshattique.github.io"
+
+# Enable Jekyll
+theme: minima
+permalink: pretty
+future: true
